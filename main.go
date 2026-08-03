@@ -7,6 +7,10 @@ func main() {
 
 	// practise.CheckPalindrome()
 
-	practise.FactorialOfNumber()
+	// practise.FactorialOfNumber()
+
+	// practise.Fibonacci()
+
+	practise.PrimeNumberCheck()
 
 }
