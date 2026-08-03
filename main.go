@@ -5,6 +5,8 @@ import "godailypactise/practise"
 func main() {
 	// practise.ResultReverseString()
 
-	practise.CheckPalindrome()
+	// practise.CheckPalindrome()
+
+	practise.FactorialOfNumber()
 
 }
