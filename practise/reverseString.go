@@ -1,4 +1,4 @@
-package main
+package practise
 
 import "fmt"
 
@@ -16,7 +16,7 @@ func reverseString(s string) string {
 	return string(runes)
 }
 
-func main() {
+func ResultReverseString() {
 	s := "hello world"
 	fmt.Println("Original string:", s)
 	fmt.Println("Reversed string:", reverseString(s))
