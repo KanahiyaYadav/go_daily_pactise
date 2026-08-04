@@ -11,6 +11,8 @@ func main() {
 
 	// practise.Fibonacci()
 
-	practise.PrimeNumberCheck()
+	// practise.PrimeNumberCheck()
+
+	practise.FindLargestElement()
 
 }
