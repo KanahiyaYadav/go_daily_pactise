@@ -13,6 +13,8 @@ func main() {
 
 	// practise.PrimeNumberCheck()
 
-	practise.FindLargestElement()
+	// practise.FindLargestElement()
+
+	practise.NextGreaterElement()
 
 }
