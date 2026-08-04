@@ -17,7 +17,7 @@ func isNumberPrime(n int) bool {
 }
 
 func PrimeNumberCheck() {
-	num := 9
+	num := 2
 
 	if isNumberPrime(num) {
 		fmt.Println(num, "is a prime number")
